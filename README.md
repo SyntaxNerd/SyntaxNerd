@@ -6,7 +6,13 @@
 
 ---
 
-### I have technical experience and interest in:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=menlo&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=50&lines=BCA+Student+at+Girijananda+Choudhury+University%2C+Guwahati%2C+Assam" alt="Typing GCU" />
+</p>
+
+---
+
+### Technical experience and interests :
 
 - Machine Learning
 - Deep Learning  
