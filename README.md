@@ -14,7 +14,7 @@
 
 ---
 
-### 📈 GitHub Stats🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thetensorcraft&show_icons=true&theme=radical" width="47%" />
