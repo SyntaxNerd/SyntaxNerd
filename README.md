@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=menlo&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=50&lines=BCA+Student+at+Girijananda+Choudhury+University%2C+Guwahati%2C+Assam" alt="Typing GCU" />
+  <img src="https://readme-typing-svg.demolab.com?font=menlo&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=50&lines=BCA+Student+at+Girijananda+Choudhury+University%2C+Guwahati%2C+Assam" alt="Typing GCU" />
 </p>
 
 ---
