@@ -6,11 +6,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### I have technical experience and interest in:
 
-- 🎓 BCA student at Girijananda Chowdhury University, Assam  
-- 🤖 I build chatbots, AI agents, and virtual assistants  
-- 🧠 Machine Learning + Deep Learning + Computer Vision enthusiast
+- Machine Learning
+- Deep Learning  
+- Natural Language Processing  
+- Computer Vision
+- Large Language Models(LLMs)  
+- AI Chatbots & Virtual Assistants  
+- Backend Development (FastAPI)  
+- Mobile App Development (Flutter)  
+- Microcontrollers (ESP32, Arduino) 
 
 ---
 
