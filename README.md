@@ -11,7 +11,6 @@
 - 🎓 BCA student at Girijananda Chowdhury University, Assam  
 - 🤖 I build chatbots, AI agents, and virtual assistants  
 - 🧠 Machine Learning + Deep Learning + Computer Vision enthusiast
-- 🧠 Currently learning: Deep Learning and Transformers
 
 ---
 
