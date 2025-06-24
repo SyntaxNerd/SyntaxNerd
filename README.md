@@ -45,9 +45,25 @@
 
 ---
 
-### 🐍 GitHub Activity Snake
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thetensorcraft&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
 
-![snake gif](https://github.com/thetensorcraft/thetensorcraft/blob/output/github-contribution-grid-snake.svg)
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/your-kaggle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
+  </a>
+</p>
 
 ---
 
