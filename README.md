@@ -47,7 +47,7 @@
 
 ### 🐍 GitHub Activity Snake
 
-![snake gif](https://github.com/AkashKumarBoro/AkashKumarBoro/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/thetensorcraft/thetensorcraft/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
