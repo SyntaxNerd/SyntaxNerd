@@ -55,22 +55,21 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-kumar-boro-268b94339/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
 
   <!-- Kaggle -->
-  <a href="https://www.kaggle.com/your-kaggle" target="_blank">
+  <a href="https://www.kaggle.com/akashkumarboro" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
   </a>
 </p>
-
+<!-- Instagram -->
+  <a href="https://www.instagram.com/_tensor_flow__" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" />
+  </a>
+</p>
 ---
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/akashkumarboro)
-- 🧠 [Kaggle](https://www.kaggle.com/akashkumarboro)
 
 ---
 
