@@ -51,25 +51,14 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
+### 🌐 Connect with me
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/akash-kumar-boro-268b94339/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/akash-kumar-boro-268b94339" target="_blank">LinkedIn</a> •
+  <a href="https://www.kaggle.com/akashkumarboro" target="_blank">Kaggle</a> •
+  <a href="mailto:akashboro8080@gmail.com">Email</a>
+</p>
 
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/akashkumarboro" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
-  </a>
-</p>
-<!-- Instagram -->
-  <a href="https://www.instagram.com/_tensor_flow__" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" />
-  </a>
-</p>
----
 
 ---
 
