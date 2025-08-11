@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Akash a.k.a mvpcraft👋</h1>
+<h1 align="center">Hi there, I'm Akash a.k.a themvpdev👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=menlo&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Enthusiast+%7C+ML+Practitioner+%7C+Tech+Explorer;" alt="Typing SVG" />
