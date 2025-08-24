@@ -15,9 +15,10 @@
 ### Technical experience and interests :
 
 - Machine Learning
-- Deep Learning  
+- Deep Learning
 - Computer Vision
-- AI Chatbots & Virtual Assistants  
+- Natural Language Processing
+- AI Chatbots & Virtual Assistants
 - Backend Development (FastAPI)
 - Microcontrollers (ESP32, Arduino) 
 
